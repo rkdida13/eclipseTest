@@ -5,9 +5,16 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=EUC-KR">
 <title>Hello.jsp</title>
+<style type="text/css">
+
+</style>
 </head>
 <body>
-<h2>Hello git !!!</h2>
+
 <h3>코리아 세일 페스타</h3>
+<h2>Hello Git !!!</h2>
+<h5>충돌 테스트</h5>
+<img src=''/>
+
 </body>
 </html>
